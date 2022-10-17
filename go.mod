@@ -10,10 +10,11 @@ require (
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/openyurtio/raven-controller-manager v0.0.0-20220406044430-46883661c853
-	github.com/spf13/cobra v1.4.0
+	github.com/spf13/cobra v1.6.0
 	github.com/spf13/pflag v1.0.5
 	github.com/vdobler/ht v5.3.0+incompatible
 	github.com/vishvananda/netlink v1.1.0
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/apimachinery v0.20.11
 	k8s.io/apiserver v0.20.11
 	k8s.io/client-go v0.20.11
